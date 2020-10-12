@@ -1,2 +1,2 @@
 # cadastro-api-ajax
-Crud utilizando feito com laravel utilizando api ajax
+Crud feito com laravel, utilizando api ajax
